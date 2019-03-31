@@ -1,0 +1,2 @@
+# -enabling-churn-reduction-using-analytics-concepts.
+Churn (loss of customers to competition) is a problem for companies because it is more expensive to acquire a new customer than to keep your existing one from leaving. This problem statement is targeted at enabling churn reduction using analytics concepts. Machine learning algorithms used are random forest, naive bayes, KNN, Logistic regression.
